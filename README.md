@@ -3,7 +3,7 @@
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Lahcen+;Nice+To+Have+You+Here+%F0%9F%91%8B&center=true&size=30">
     </a>
   </h1>
     
@@ -58,16 +58,16 @@
   </p>
   <hr>
 
-  <h2 align="center">⚡ Stats ⚡</h2>
-  <br>
+  <!-- <h2 align="center">⚡ Stats ⚡</h2>
+  <br> -->
 
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://github.com/HalemoGPA/">
           <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-  </p>
+  </p> -->
 
-  <hr>
+  <!-- <hr>
   <h2 align="center">💹 Most Popular Repos 💹</h2>
   <br>
   <p align="center">
@@ -84,16 +84,16 @@
   <hr>
   <p align="center">
         <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
-  </p>
+  </p> -->
 
   <!--
   <p  align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>
   </p>
   -->
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HalemoGPA?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
-  </p>
+  </p> -->
   <!---
   HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.

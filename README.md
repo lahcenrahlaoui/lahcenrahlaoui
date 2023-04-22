@@ -20,11 +20,11 @@
   </p>
   <p align="center"> 
 
-  <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/">
+  <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/](https://www.linkedin.com/in/lahcenrahlaoui/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=28>
   </a> 
 
-  <a href="mailto:haleemborham3@gmail.com">
+  <a href="mailto:lahcen.rahlaoui@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=28>
 
   </a>

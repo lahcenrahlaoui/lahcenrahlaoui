@@ -35,19 +35,22 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
   <p align="center">
   <!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-    <img title="C++" height="25" src="images/cpp.svg"></code>
-    <img title="Problem Solving" height="25" src="images/problemSolving.png">
+    <!-- <img title="C++" height="25" src="images/cpp.svg"> -->
+    </code>
+    <!-- <img title="Problem Solving" height="25" src="images/problemSolving.png"> -->
   <!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-    <img title="Python" height="25" src="images/python-original.svg">
-    <img title="Numpy" height="25" src="images/numpy.svg">
-    <img title="Pandas" height="25" src="images/pandas.svg">
-    <img title="Matplotlib" height="25" src="images/matplotlib.svg">
-    <img title="Seaborn" height="25" src="images/seaborn.svg">
-    <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
+    <!-- <img title="Python" height="25" src="images/python-original.svg"> -->
+    <!-- <img title="Numpy" height="25" src="images/numpy.svg"> -->
+    <!-- <img title="Pandas" height="25" src="images/pandas.svg"> -->
+    <!-- <img title="Matplotlib" height="25" src="images/matplotlib.svg"> -->
+    <!-- <img title="Seaborn" height="25" src="images/seaborn.svg"> -->
+    <!-- <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg"> -->
     <img title="HTML5" height="25" src="images/html5.svg">
     <img title="CSS" height="25" src="images/css.svg">
     <img title="Javascript" height="25" src="images/javascript.svg">
     <img title="JSON" height="25" src="images/json.svg">
+    <img title="React" height="25" src="images/React-icon.svg.png">
+    <img title="Redux" height="25" src="images/redux-logo-vector.svg">
     <img title="Git" height="25" src="images/git-original.svg">
     <img title="GitHub" height="25" src="images/github.svg">
     <img title="Visual Studio Code" height="25" src="images/vscode.png">

@@ -10,7 +10,7 @@
     Hi, I'm Lahcen, Computer Engineer & Software Developer from Algeria.
     <br>
     <br>
-    👨‍🎓 I have a Bachelor's degree in software engineering.
+    👨‍🎓 I have a Master's degree in software engineering.
     <br>
     💻 I love Writing code, Hardware and learning anything about them 😊
     <br>

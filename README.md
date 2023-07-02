@@ -7,14 +7,14 @@
     
   ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
   <p align="center">
-    Hi, I'm Lahcen , Computer Engineer & Software Developer from Algeria
+    Hi, I'm Lahcen, Computer Engineer & Software Developer from Algeria.
     <br>
     <br>
-    👨‍🎓 I have a Bachelor's degree in software engineering 
+    👨‍🎓 I have a Bachelor's degree in software engineering.
     <br>
     💻 I love Writing code, Hardware and learning anything about them 😊
     <br>
-    📚 I’m currently focusing on React and Nodejs
+    📚 I’m currently focusing on React and Nodejs.
     <br>
     📫 How to reach me 👇
   </p>
